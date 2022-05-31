@@ -1,0 +1,3 @@
+tasks
+-----
+*Create a encryption and decryption window with Fernet and tkinter.
