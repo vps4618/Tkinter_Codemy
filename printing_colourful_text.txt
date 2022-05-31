@@ -1,0 +1,8 @@
+import colorama 
+from colorama import Fore
+from colorama import Style
+
+pip install colorama - Installation of colorama
+
+DIM, NORMAL, BRIGHT, RESET_ALL - options in Style
+BLACK, RED, GREEN, YELLOW, BLUE, MAGENTA, CYAN, WHITE, RESET - options in Fore

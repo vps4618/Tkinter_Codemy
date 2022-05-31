@@ -1,0 +1,232 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="96fdbbdf-fcb8-48c6-b61f-f3df1e98a00c" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExportToHTMLSettings">
+    <option name="printScope" value="1" />
+    <option name="OUTPUT_DIRECTORY" value="$PROJECT_DIR$/../tkinter_codemy\exportToHTML" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="20tPhq59hThYlLH9eCEOvM4kOsB" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RunManager" selected="Python.Message Boxes with TKinter - Python Tkinter GUI Tutorial #1">
+    <configuration name="Adding A Status Bar - Python Tkinter GUI Tutorial #10" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="tkinter_codemy" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Adding A Status Bar - Python Tkinter GUI Tutorial #10.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Adding Frames To Your Program - Python Tkinter GUI Tutorial #11" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="tkinter_codemy" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Adding Frames To Your Program - Python Tkinter GUI Tutorial #11.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Image_Viewer" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="tkinter_codemy" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Image_Viewer.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Message Boxes with TKinter - Python Tkinter GUI Tutorial #1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="tkinter_codemy" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Message Boxes with TKinter - Python Tkinter GUI Tutorial #1.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Radio Buttons with TKinter - Python Tkinter GUI Tutorial #12" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="tkinter_codemy" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Radio Buttons with TKinter - Python Tkinter GUI Tutorial #12.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.Message Boxes with TKinter - Python Tkinter GUI Tutorial #1" />
+        <item itemvalue="Python.Radio Buttons with TKinter - Python Tkinter GUI Tutorial #12" />
+        <item itemvalue="Python.Adding Frames To Your Program - Python Tkinter GUI Tutorial #11" />
+        <item itemvalue="Python.Image_Viewer" />
+        <item itemvalue="Python.Adding A Status Bar - Python Tkinter GUI Tutorial #10" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="96fdbbdf-fcb8-48c6-b61f-f3df1e98a00c" name="Default Changelist" comment="" />
+      <created>1636861032115</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1636861032115</updated>
+      <workItem from="1636861038860" duration="8064000" />
+      <workItem from="1636882836712" duration="5694000" />
+      <workItem from="1636890080638" duration="3440000" />
+      <workItem from="1636893755367" duration="3138000" />
+      <workItem from="1636969859243" duration="13127000" />
+      <workItem from="1637062110830" duration="2414000" />
+      <workItem from="1637221909568" duration="11652000" />
+      <workItem from="1638023762996" duration="3442000" />
+      <workItem from="1638265036838" duration="2501000" />
+      <workItem from="1638271215324" duration="4147000" />
+      <workItem from="1638278279902" duration="853000" />
+      <workItem from="1638280035098" duration="1985000" />
+      <workItem from="1638327248484" duration="1045000" />
+      <workItem from="1638346226342" duration="21000" />
+      <workItem from="1638674064014" duration="8650000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="232" y="155" key="#Notifications" timestamp="1638686266039">
+      <screen x="0" y="0" width="1280" height="994" />
+    </state>
+    <state x="232" y="155" key="#Notifications/0.0.1280.994@0.0.1280.994" timestamp="1638686266039" />
+    <state x="420" y="238" key="FileChooserDialogImpl" timestamp="1636872962511">
+      <screen x="0" y="0" width="1280" height="994" />
+    </state>
+    <state x="420" y="238" key="FileChooserDialogImpl/0.0.1280.994@0.0.1280.994" timestamp="1636872962511" />
+    <state width="1220" height="154" key="GridCell.Tab.0.bottom" timestamp="1638692136917">
+      <screen x="0" y="0" width="1280" height="994" />
+    </state>
+    <state width="1220" height="154" key="GridCell.Tab.0.bottom/0.0.1280.994@0.0.1280.994" timestamp="1638692136917" />
+    <state width="1220" height="154" key="GridCell.Tab.0.center" timestamp="1638692136917">
+      <screen x="0" y="0" width="1280" height="994" />
+    </state>
+    <state width="1220" height="154" key="GridCell.Tab.0.center/0.0.1280.994@0.0.1280.994" timestamp="1638692136917" />
+    <state width="1220" height="154" key="GridCell.Tab.0.left" timestamp="1638692136917">
+      <screen x="0" y="0" width="1280" height="994" />
+    </state>
+    <state width="1220" height="154" key="GridCell.Tab.0.left/0.0.1280.994@0.0.1280.994" timestamp="1638692136917" />
+    <state width="1220" height="154" key="GridCell.Tab.0.right" timestamp="1638692136917">
+      <screen x="0" y="0" width="1280" height="994" />
+    </state>
+    <state width="1220" height="154" key="GridCell.Tab.0.right/0.0.1280.994@0.0.1280.994" timestamp="1638692136917" />
+    <state x="336" y="321" key="com.intellij.ide.util.TipDialog" timestamp="1638346226320">
+      <screen x="0" y="0" width="1280" height="994" />
+    </state>
+    <state x="336" y="321" key="com.intellij.ide.util.TipDialog/0.0.1280.994@0.0.1280.994" timestamp="1638346226320" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/tkinter_codemy$Build_an_Image_Viewer_App_With_Python_and_TKinter___Python_Tkinter_GUI_Tutorial__9.coverage" NAME="Build an Image Viewer App With Python and TKinter - Python Tkinter GUI Tutorial #9 Coverage Results" MODIFIED="1637240844125" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/tkinter_codemy$Creating_Buttons_With_TKinter___Python_Tkinter_GUI_Tutorial__3.coverage" NAME="Creating Buttons With TKinter - Python Tkinter GUI Tutorial #3 Coverage Results" MODIFIED="1636867606540" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/tkinter_codemy$Adding_Frames_To_Your_Program___Python_Tkinter_GUI_Tutorial__11.coverage" NAME="Adding Frames To Your Program - Python Tkinter GUI Tutorial #11 Coverage Results" MODIFIED="1638686530711" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/tkinter_codemy$Creating_Input_Fields_With_TKinter___Python_Tkinter_GUI_Tutorial__4.coverage" NAME="Creating Input Fields With TKinter - Python Tkinter GUI Tutorial #4 Coverage Results" MODIFIED="1636872924345" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/tkinter_codemy$Finish_Building_A_Simple_Calculator_App___Python_Tkinter_GUI_Tutorial__7.coverage" NAME="Finish Building A Simple Calculator App - Python Tkinter GUI Tutorial #7 Coverage Results" MODIFIED="1636989418538" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/tkinter_codemy$Continue_Building_A_Simple_Calculator_App___Python_Tkinter_GUI_Tutorial__6.coverage" NAME="Continue Building A Simple Calculator App - Python Tkinter GUI Tutorial #6 Coverage Results" MODIFIED="1636986116550" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/tkinter_codemy$Using_Icons__Images__and_Exit_Buttons___Python_Tkinter_GUI_Tutorial__8.coverage" NAME="Using Icons, Images, and Exit Buttons - Python Tkinter GUI Tutorial #8 Coverage Results" MODIFIED="1637225734926" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/tkinter_codemy$Mini_Calculator.coverage" NAME="Mini_Calculator Coverage Results" MODIFIED="1636989595431" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/tkinter_codemy$finding_area_and_perimeter_of_circle.coverage" NAME="finding_area_and_perimeter_of_circle Coverage Results" MODIFIED="1637064141121" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/tkinter_codemy$Build_A_Simple_Calculator_App___Python_Tkinter_GUI_Tutorial__5.coverage" NAME="Build A Simple Calculator App - Python Tkinter GUI Tutorial #5 Coverage Results" MODIFIED="1636985020134" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/tkinter_codemy$Image_Viewer.coverage" NAME="Image_Viewer Coverage Results" MODIFIED="1638286656972" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/tkinter_codemy$Message_Boxes_with_TKinter___Python_Tkinter_GUI_Tutorial__1.coverage" NAME="Message Boxes with TKinter - Python Tkinter GUI Tutorial #1 Coverage Results" MODIFIED="1638692136901" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/tkinter_codemy$Create_Graphical_User_Interfaces_With_Python_And_TKinter.coverage" NAME="Create Graphical User Interfaces With Python And TKinter Coverage Results" MODIFIED="1636861270667" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/tkinter_codemy$Positioning_With_Tkinter_s_Grid_System___Python_Tkinter_GUI_Tutorial__2.coverage" NAME="Positioning With Tkinter's Grid System - Python Tkinter GUI Tutorial #2 Coverage Results" MODIFIED="1636864340498" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/tkinter_codemy$Radio_Buttons_with_TKinter___Python_Tkinter_GUI_Tutorial__12.coverage" NAME="Radio Buttons with TKinter - Python Tkinter GUI Tutorial #12 Coverage Results" MODIFIED="1638688260791" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/tkinter_codemy$Adding_A_Status_Bar___Python_Tkinter_GUI_Tutorial__10.coverage" NAME="Adding A Status Bar - Python Tkinter GUI Tutorial #10 Coverage Results" MODIFIED="1638286246322" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+</project>
