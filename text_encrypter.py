@@ -8,6 +8,7 @@ root.iconbitmap('images/encrypt.ico')
 
 # info function
 def info():
+    root.iconify()
     info_window = Toplevel()
     info_window.title('Info')
     info_window.iconbitmap('images/encrypt.ico')
@@ -19,6 +20,7 @@ def info():
 # decryption function
 
 def decrypt_text_function():
+    root.iconify()
 
     # create clear entries  function
     def clear_entries_decrypt():
@@ -169,6 +171,7 @@ def decrypt_text_function():
 
 #  encryption fuction
 def encrypt_text_function():
+    root.iconify()
 
     # create clear entries  function
     def clear_entries():
