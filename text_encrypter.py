@@ -12,9 +12,7 @@ def info():
     info_window = Toplevel()
     info_window.title('Info')
     info_window.iconbitmap('images/encrypt.ico')
-    info_window.geometry("200x300")
-    info_window.resizable(False,False)
-    html_details = HTMLLabel(info_window,html="""<p>Coded by Vishwa Praveen(Vpsoftwares).</p><br><center><img src='images/logo.jpg'></center><br><br><a href='https://vpsoftwares.herokuapp.com/'>Visit developer's website</a>""")
+    html_details = HTMLLabel(info_window,html="""<p>※ This applicaton can use to encrypt text such as passwords,messages.When you want to view them in decrypted mode,You need to enter the key to view it.</p><br><p>※ Coded by Vishwa Praveen(Vpsoftwares).</p><br><center><img src='images/logo.jpg'></center><br><br><a href='https://vpsoftwares.herokuapp.com/'>Visit developer's website</a>""")
     html_details.pack()
 
 # decryption function
@@ -168,6 +166,7 @@ def decrypt_text_function():
 
     # space  new 
     space2=Label(decrypt_window,text="").grid(row=8,column=0)
+    decrypt_window.state("zoomed")
 
 #  encryption fuction
 def encrypt_text_function():
@@ -338,6 +337,7 @@ def encrypt_text_function():
 
     # space  new 
     space2=Label(encrypt_window,text="").grid(row=8,column=0)
+    encrypt_window.state("zoomed")
 
 # encrypt button
 encryption_window_button = Button(root,text="Encrypt Text",bg='#ed8a8a',font='Helvatica 15',command=encrypt_text_function)
