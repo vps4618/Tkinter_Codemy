@@ -1,0 +1,14 @@
+{% extends 'events/base.html' %}
+
+{% block content %}
+
+        <center>
+        <h1>hi {{name}} Events for {{month}} {{year}}</h1>
+        <h3>As of <font style="color: cadetblue;font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;">{{time}}</font></h3>
+        <br>
+        <p>{{cal | safe}}</p> <!--[|] is filter (safe) , this removes malacious code-->
+        </center>
+        <br><br>
+        <center>Copyright (c) {{current_year}}</center>
+
+{% endblock %}    
