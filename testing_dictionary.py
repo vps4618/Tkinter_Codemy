@@ -15,7 +15,7 @@ hi
 
 def get():
     text_box.insert(END,"""
-    s
+   s
 
 
 
@@ -82,17 +82,7 @@ def get():
     
     
     
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    fuck
+ 
     
     """)
 
